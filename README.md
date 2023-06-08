@@ -5,4 +5,4 @@ The manuscript can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101
 
 [Script to do multi-sample demultiplexing based on genetics]()
 
-[Script to do CITE-seq cell-free tag removal]()
+[Script to do CITE-seq cell-free tag removal](https://github.com/Teichlab/mapcloud/blob/master/scripts/citeseq/soupx.R)
