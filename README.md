@@ -5,9 +5,15 @@ The manuscript can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101
 
 ## Data
 
+### scRNA-seq
+
 [Raw sequencing data of primary human fetal lungs](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-11528)
 
 [Raw sequencing data of human fetal lung organoids]()
+
+### genotyping
+
+[genotyping .vcf Part II](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/uclSamples.vcf.zip)
 
 ## Scripts
 
