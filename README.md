@@ -44,4 +44,6 @@ The manuscript can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101
 
 [Script to do multi-sample demultiplexing based on genetics]()
 
-[Script to do CITE-seq cell-free tag removal](https://github.com/Teichlab/mapcloud/blob/master/scripts/citeseq/soupx.R)
+[Script to do CITE-seq cell-free tag removal](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/soupx.R)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[possible newer updates here](https://github.com/Teichlab/mapcloud/blob/master/scripts/citeseq/soupx.R)
