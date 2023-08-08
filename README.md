@@ -42,7 +42,7 @@ The manuscript can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101
 | [jbID.vcf Part I](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/jbID.vcf.zip)       | JB18       | JB18         | 15383 | Fetal              | FL16-C                           | 20 pcw       | M                    |
 ## Scripts
 
-[Script to do multi-sample demultiplexing based on genetics]()
+[Script to do multi-library donor-demultiplexing based on genetics]()
 
 [Script to do CITE-seq cell-free tag removal](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/soupx.R)
 
