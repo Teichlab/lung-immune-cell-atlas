@@ -42,7 +42,9 @@ The manuscript can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101
 | [jbID.vcf Part I](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/jbID.vcf.zip)       | JB18       | JB18         | 15383 | Fetal              | FL16-C                           | 20 pcw       | M                    |
 ## Scripts
 
-[Script to do multi-library donor-demultiplexing based on genetics]()
+[Script to do multi-library donor-demultiplexing based on genetics](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/souporcell_all.sh)
+
+  Sometimes we may have multiple libraries sharing donors. Pooling them may increase the sample size (number of cells) for each donor and improve demultiplexing results. This script adds artificial "library" barcodes to the bam files of each library, merges them, and runs souporcell demultiplexing. The results will show both library IDs and donor IDs for each cell.
 
 [Script to do CITE-seq cell-free tag removal](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/soupx.R)
 
