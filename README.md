@@ -1,7 +1,11 @@
 # lung-immune-cell-atlas
 This is a folder containing information of the human fetal lung leukocyte atlas
 
-The manuscript can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.13.519713v1.abstract)
+The manuscript can be found on [here](https://www.science.org/doi/10.1126/sciimmunol.adf9988).
+The high-resolution supplementary figures can be found in this repository.
+
+![image](https://github.com/Teichlab/lung-immune-cell-atlas/assets/4110443/ce4d2abd-36d5-450f-b711-6e18052c948c)
+
 
 ## Data
 
