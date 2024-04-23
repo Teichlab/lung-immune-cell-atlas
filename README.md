@@ -6,6 +6,7 @@ The high-resolution supplementary figures can be found in this repository.
 
 ![image](https://github.com/Teichlab/lung-immune-cell-atlas/assets/4110443/ce4d2abd-36d5-450f-b711-6e18052c948c)
 
+Data can be browsed and downloaded from [CZI CellxGene](https://cellxgene.cziscience.com/collections/ec329aed-22bc-4d6e-8935-8282dcb1acac) and [our local website](https://fetal-lung-immune.cellgeni.sanger.ac.uk/)
 
 ## Data
 
