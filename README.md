@@ -16,7 +16,8 @@ Data can be browsed and downloaded from [CZI CellxGene](https://cellxgene.czisci
 
 [Raw sequencing data of human fetal lung organoids]()
 
-### genotyping
+<details>
+  <summary><b>genotyping</b></summary>
 
 | File           | GenotypeID | SubmissionID | HDBR ID    | Maternal or Fetal? | Corresponding scRNAseq Sample ID | Age of Fetus | Gender of Fetus: M/F |
 | -------------- | ---------- | ------------ | ---------- | ------------------ | -------------------------------- | ------------ | -------------------- |
@@ -45,7 +46,11 @@ Data can be browsed and downloaded from [CZI CellxGene](https://cellxgene.czisci
 | [jbID.vcf Part I](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/jbID.vcf.zip)       | JB16       | JB16         | 14969 | Fetal              | FL13                             | 8 pcw        | F                    |
 | [jbID.vcf Part I](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/jbID.vcf.zip)       | JB17       | JB17         | 15332 | Fetal              | FL16-C                           | 12 pcw       | M                    |
 | [jbID.vcf Part I](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/jbID.vcf.zip)       | JB18       | JB18         | 15383 | Fetal              | FL16-C                           | 20 pcw       | M                    |
-## Scripts
+
+</details>
+
+<details>
+  <summary><b>scripts</b></summary>
 
 [Script to do multi-library donor-demultiplexing based on genetics](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/souporcell_all.sh)
 
@@ -54,3 +59,4 @@ Data can be browsed and downloaded from [CZI CellxGene](https://cellxgene.czisci
 [Script to do CITE-seq cell-free tag removal](https://github.com/Teichlab/lung-immune-cell-atlas/blob/main/soupx.R)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[possible newer updates here](https://github.com/Teichlab/mapcloud/blob/master/scripts/citeseq/soupx.R)
+</details>
