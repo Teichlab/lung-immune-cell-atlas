@@ -60,3 +60,5 @@ Data can be browsed and downloaded from [CZI CellxGene](https://cellxgene.czisci
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[possible newer updates here](https://github.com/Teichlab/mapcloud/blob/master/scripts/citeseq/soupx.R)
 </details>
+
+[Download the vcf file for common variants in hg38 here](https://ucsfonline-my.sharepoint.com/:u:/g/personal/peng_he_ucsf_edu/EZ4jDhz2cHxIr040oIZeh9oBnF0i5tnfVacNX-QkGf-yHQ?e=snJE60)
